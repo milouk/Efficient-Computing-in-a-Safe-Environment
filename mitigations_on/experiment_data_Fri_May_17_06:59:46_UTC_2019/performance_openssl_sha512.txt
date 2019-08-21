@@ -1,0 +1,10 @@
+Doing sha512 for 3s on 16 size blocks: 12762292 sha512's in 2.99s
+Doing sha512 for 3s on 64 size blocks: 12764022 sha512's in 3.00s
+Doing sha512 for 3s on 256 size blocks: 5426715 sha512's in 3.00s
+Doing sha512 for 3s on 1024 size blocks: 2009313 sha512's in 3.00s
+Doing sha512 for 3s on 8192 size blocks: 294161 sha512's in 3.00s
+Doing sha512 for 3s on 16384 size blocks: 149037 sha512's in 2.99s
+
+real	0m18.003s
+user	0m17.989s
+sys	0m0.000s

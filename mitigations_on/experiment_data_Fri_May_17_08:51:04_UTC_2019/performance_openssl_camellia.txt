@@ -1,0 +1,22 @@
+Doing camellia-128 cbc for 3s on 16 size blocks: 26201594 camellia-128 cbc's in 2.99s
+Doing camellia-128 cbc for 3s on 64 size blocks: 9954444 camellia-128 cbc's in 3.00s
+Doing camellia-128 cbc for 3s on 256 size blocks: 2814759 camellia-128 cbc's in 3.00s
+Doing camellia-128 cbc for 3s on 1024 size blocks: 726303 camellia-128 cbc's in 3.00s
+Doing camellia-128 cbc for 3s on 8192 size blocks: 91835 camellia-128 cbc's in 3.00s
+Doing camellia-128 cbc for 3s on 16384 size blocks: 45952 camellia-128 cbc's in 2.99s
+Doing camellia-192 cbc for 3s on 16 size blocks: 22683484 camellia-192 cbc's in 3.00s
+Doing camellia-192 cbc for 3s on 64 size blocks: 7710016 camellia-192 cbc's in 3.00s
+Doing camellia-192 cbc for 3s on 256 size blocks: 2110008 camellia-192 cbc's in 3.00s
+Doing camellia-192 cbc for 3s on 1024 size blocks: 543147 camellia-192 cbc's in 2.99s
+Doing camellia-192 cbc for 3s on 8192 size blocks: 68505 camellia-192 cbc's in 3.00s
+Doing camellia-192 cbc for 3s on 16384 size blocks: 34243 camellia-192 cbc's in 3.00s
+Doing camellia-256 cbc for 3s on 16 size blocks: 22679307 camellia-256 cbc's in 3.00s
+Doing camellia-256 cbc for 3s on 64 size blocks: 7714359 camellia-256 cbc's in 2.99s
+Doing camellia-256 cbc for 3s on 256 size blocks: 2111749 camellia-256 cbc's in 3.00s
+Doing camellia-256 cbc for 3s on 1024 size blocks: 543488 camellia-256 cbc's in 3.00s
+Doing camellia-256 cbc for 3s on 8192 size blocks: 68359 camellia-256 cbc's in 3.00s
+Doing camellia-256 cbc for 3s on 16384 size blocks: 34205 camellia-256 cbc's in 2.99s
+
+real	0m54.005s
+user	0m53.960s
+sys	0m0.000s

@@ -1,0 +1,50 @@
+Build started at 2019-05-10T12:37:57.695632
+Main binary: /usr/bin/python3
+Python system: Linux
+The Meson build system
+Version: 0.47.2
+Source dir: /home/sgeorgiou/GitHub/efficient_computering_in_safe_environments/mitigations/osbench/osbench-master/src
+Build dir: /home/sgeorgiou/GitHub/efficient_computering_in_safe_environments/mitigations/osbench/osbench-master/out
+Build type: native build
+Project name: osbench
+Project version: undefined
+Sanity testing C compiler: ccache cc
+Is cross compiler: False.
+Sanity check compiler command line: ccache cc /home/sgeorgiou/GitHub/efficient_computering_in_safe_environments/mitigations/osbench/osbench-master/out/meson-private/sanitycheckc.c -o /home/sgeorgiou/GitHub/efficient_computering_in_safe_environments/mitigations/osbench/osbench-master/out/meson-private/sanitycheckc.exe
+Sanity check compile stdout:
+
+-----
+Sanity check compile stderr:
+
+-----
+Running test binary command: /home/sgeorgiou/GitHub/efficient_computering_in_safe_environments/mitigations/osbench/osbench-master/out/meson-private/sanitycheckc.exe
+Native C compiler: ccache cc (gcc 8.3.1 "cc (GCC) 8.3.1 20190223 (Red Hat 8.3.1-2)")
+Build machine cpu family: x86_64
+Build machine cpu: x86_64
+Dependency threads found: YES
+Running compile:
+Working directory:  /tmp/tmp7m9haupv
+Command line:  ccache cc /tmp/tmp7m9haupv/testfile.c -pipe -D_FILE_OFFSET_BITS=64 -o /tmp/tmp7m9haupv/output.exe -O0 -Wl,--start-group -lm -Wl,--end-group -Wl,--allow-shlib-undefined 
+
+Code:
+ int main(int argc, char **argv) { return 0; }
+Compiler stdout:
+ 
+Compiler stderr:
+ 
+Library m found: YES
+Build targets in project: 6
+Found ninja-1.8.2 at /usr/bin/ninja
+Running compile:
+Working directory:  /tmp/tmpamxx5r60
+Command line:  ccache cc /tmp/tmpamxx5r60/testfile.c -pipe -D_FILE_OFFSET_BITS=64 -c -o /tmp/tmpamxx5r60/output.obj -O0 --print-search-dirs 
+
+Code:
+ 
+Compiler stdout:
+ install: /usr/lib/gcc/x86_64-redhat-linux/8/
+programs: =/usr/libexec/gcc/x86_64-redhat-linux/8/:/usr/libexec/gcc/x86_64-redhat-linux/8/:/usr/libexec/gcc/x86_64-redhat-linux/:/usr/lib/gcc/x86_64-redhat-linux/8/:/usr/lib/gcc/x86_64-redhat-linux/:/usr/lib/gcc/x86_64-redhat-linux/8/../../../../x86_64-redhat-linux/bin/x86_64-redhat-linux/8/:/usr/lib/gcc/x86_64-redhat-linux/8/../../../../x86_64-redhat-linux/bin/
+libraries: =/usr/lib/gcc/x86_64-redhat-linux/8/:/usr/lib/gcc/x86_64-redhat-linux/8/../../../../x86_64-redhat-linux/lib/x86_64-redhat-linux/8/:/usr/lib/gcc/x86_64-redhat-linux/8/../../../../x86_64-redhat-linux/lib/../lib64/:/usr/lib/gcc/x86_64-redhat-linux/8/../../../x86_64-redhat-linux/8/:/usr/lib/gcc/x86_64-redhat-linux/8/../../../../lib64/:/lib/x86_64-redhat-linux/8/:/lib/../lib64/:/usr/lib/x86_64-redhat-linux/8/:/usr/lib/../lib64/:/usr/lib/gcc/x86_64-redhat-linux/8/../../../../x86_64-redhat-linux/lib/:/usr/lib/gcc/x86_64-redhat-linux/8/../../../:/lib/:/usr/lib/
+
+Compiler stderr:
+ 

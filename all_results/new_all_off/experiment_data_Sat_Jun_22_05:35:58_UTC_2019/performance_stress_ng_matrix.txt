@@ -1,0 +1,9 @@
+stress-ng: info:  [9325] dispatching hogs: 8 matrix
+stress-ng: info:  [9325] successful run completed in 30.00s
+stress-ng: info:  [9325] stressor       bogo ops real time  usr time  sys time   bogo ops/s   bogo ops/s
+stress-ng: info:  [9325]                           (secs)    (secs)    (secs)   (real time) (usr+sys time)
+stress-ng: info:  [9325] matrix           888014     30.00    239.58      0.00     29600.48      3706.54
+
+real	0m30.004s
+user	3m59.614s
+sys	0m0.009s

@@ -1,0 +1,9 @@
+stress-ng: info:  [27504] dispatching hogs: 8 msg
+stress-ng: info:  [27504] successful run completed in 30.02s
+stress-ng: info:  [27504] stressor       bogo ops real time  usr time  sys time   bogo ops/s   bogo ops/s
+stress-ng: info:  [27504]                           (secs)    (secs)    (secs)   (real time) (usr+sys time)
+stress-ng: info:  [27504] msg            50291659     30.00     14.51    224.91   1676383.24    210056.22
+
+real	0m30.021s
+user	0m14.590s
+sys	3m45.000s

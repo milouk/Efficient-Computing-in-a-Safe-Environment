@@ -1,0 +1,10 @@
+Doing ghash for 3s on 16 size blocks: 318092149 ghash's in 3.00s
+Doing ghash for 3s on 64 size blocks: 299609605 ghash's in 3.00s
+Doing ghash for 3s on 256 size blocks: 116160932 ghash's in 2.99s
+Doing ghash for 3s on 1024 size blocks: 32646766 ghash's in 3.00s
+Doing ghash for 3s on 8192 size blocks: 4221348 ghash's in 3.00s
+Doing ghash for 3s on 16384 size blocks: 2113442 ghash's in 2.99s
+
+real	0m18.009s
+user	0m17.990s
+sys	0m0.002s

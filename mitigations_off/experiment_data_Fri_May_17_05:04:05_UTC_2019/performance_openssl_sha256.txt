@@ -1,0 +1,10 @@
+Doing sha256 for 3s on 16 size blocks: 18684449 sha256's in 2.99s
+Doing sha256 for 3s on 64 size blocks: 10409915 sha256's in 3.00s
+Doing sha256 for 3s on 256 size blocks: 4747411 sha256's in 3.00s
+Doing sha256 for 3s on 1024 size blocks: 1476922 sha256's in 3.00s
+Doing sha256 for 3s on 8192 size blocks: 198859 sha256's in 3.00s
+Doing sha256 for 3s on 16384 size blocks: 99989 sha256's in 2.99s
+
+real	0m18.003s
+user	0m17.990s
+sys	0m0.001s

@@ -1,0 +1,10 @@
+Doing whirlpool for 3s on 16 size blocks: 8876990 whirlpool's in 3.00s
+Doing whirlpool for 3s on 64 size blocks: 4730043 whirlpool's in 3.00s
+Doing whirlpool for 3s on 256 size blocks: 1969728 whirlpool's in 2.99s
+Doing whirlpool for 3s on 1024 size blocks: 589662 whirlpool's in 3.00s
+Doing whirlpool for 3s on 8192 size blocks: 78329 whirlpool's in 3.00s
+Doing whirlpool for 3s on 16384 size blocks: 39382 whirlpool's in 3.00s
+
+real	0m18.009s
+user	0m17.991s
+sys	0m0.003s

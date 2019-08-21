@@ -1,0 +1,9 @@
+stress-ng: info:  [8012] dispatching hogs: 8 msg
+stress-ng: info:  [8012] successful run completed in 30.00s
+stress-ng: info:  [8012] stressor       bogo ops real time  usr time  sys time   bogo ops/s   bogo ops/s
+stress-ng: info:  [8012]                           (secs)    (secs)    (secs)   (real time) (usr+sys time)
+stress-ng: info:  [8012] msg            52388071     30.00     16.19    223.08   1746247.44    218949.60
+
+real	0m30.005s
+user	0m16.253s
+sys	3m43.165s

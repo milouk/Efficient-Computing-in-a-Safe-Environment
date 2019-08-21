@@ -1,0 +1,10 @@
+Doing sha1 for 3s on 16 size blocks: 31573196 sha1's in 3.00s
+Doing sha1 for 3s on 64 size blocks: 18551397 sha1's in 2.99s
+Doing sha1 for 3s on 256 size blocks: 9350384 sha1's in 2.99s
+Doing sha1 for 3s on 1024 size blocks: 3117004 sha1's in 3.00s
+Doing sha1 for 3s on 8192 size blocks: 430752 sha1's in 3.00s
+Doing sha1 for 3s on 16384 size blocks: 217128 sha1's in 2.99s
+
+real	0m18.009s
+user	0m17.988s
+sys	0m0.003s

@@ -1,0 +1,9 @@
+stress-ng: info:  [6340] dispatching hogs: 8 sock
+stress-ng: info:  [6340] successful run completed in 30.00s
+stress-ng: info:  [6340] stressor       bogo ops real time  usr time  sys time   bogo ops/s   bogo ops/s
+stress-ng: info:  [6340]                           (secs)    (secs)    (secs)   (real time) (usr+sys time)
+stress-ng: info:  [6340] sock              50188     30.00     16.00    149.95      1672.84       302.43
+
+real	0m30.014s
+user	0m16.076s
+sys	2m30.046s

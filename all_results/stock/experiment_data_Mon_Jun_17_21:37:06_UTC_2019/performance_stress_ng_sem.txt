@@ -1,0 +1,9 @@
+stress-ng: info:  [2112] dispatching hogs: 8 sem
+stress-ng: info:  [2112] successful run completed in 30.00s
+stress-ng: info:  [2112] stressor       bogo ops real time  usr time  sys time   bogo ops/s   bogo ops/s
+stress-ng: info:  [2112]                           (secs)    (secs)    (secs)   (real time) (usr+sys time)
+stress-ng: info:  [2112] sem           146893843     30.00     69.69    169.79   4896442.19    613386.68
+
+real	0m30.009s
+user	1m9.736s
+sys	2m49.840s

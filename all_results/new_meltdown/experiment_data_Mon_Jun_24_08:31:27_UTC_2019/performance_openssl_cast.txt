@@ -1,0 +1,10 @@
+Doing cast cbc for 3s on 16 size blocks: 27286763 cast cbc's in 2.99s
+Doing cast cbc for 3s on 64 size blocks: 7314967 cast cbc's in 3.00s
+Doing cast cbc for 3s on 256 size blocks: 1859412 cast cbc's in 3.00s
+Doing cast cbc for 3s on 1024 size blocks: 467205 cast cbc's in 3.00s
+Doing cast cbc for 3s on 8192 size blocks: 58478 cast cbc's in 3.00s
+Doing cast cbc for 3s on 16384 size blocks: 29289 cast cbc's in 2.99s
+
+real	0m18.003s
+user	0m17.989s
+sys	0m0.000s

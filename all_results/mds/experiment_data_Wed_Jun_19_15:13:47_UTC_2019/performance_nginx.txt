@@ -1,0 +1,11 @@
+Completed 100000 requests
+Completed 200000 requests
+Completed 300000 requests
+Completed 400000 requests
+Completed 500000 requests
+Completed 600000 requests
+apr_socket_recv: Connection reset by peer (104)
+
+real	0m22.822s
+user	0m1.187s
+sys	0m14.575s

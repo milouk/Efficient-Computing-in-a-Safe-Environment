@@ -1,0 +1,22 @@
+Doing aes-128 cbc for 3s on 16 size blocks: 31572280 aes-128 cbc's in 2.99s
+Doing aes-128 cbc for 3s on 64 size blocks: 8722741 aes-128 cbc's in 3.00s
+Doing aes-128 cbc for 3s on 256 size blocks: 2230888 aes-128 cbc's in 3.00s
+Doing aes-128 cbc for 3s on 1024 size blocks: 562761 aes-128 cbc's in 2.99s
+Doing aes-128 cbc for 3s on 8192 size blocks: 70535 aes-128 cbc's in 3.00s
+Doing aes-128 cbc for 3s on 16384 size blocks: 35264 aes-128 cbc's in 3.00s
+Doing aes-192 cbc for 3s on 16 size blocks: 26670931 aes-192 cbc's in 3.00s
+Doing aes-192 cbc for 3s on 64 size blocks: 7272763 aes-192 cbc's in 2.99s
+Doing aes-192 cbc for 3s on 256 size blocks: 1855433 aes-192 cbc's in 3.00s
+Doing aes-192 cbc for 3s on 1024 size blocks: 467505 aes-192 cbc's in 3.00s
+Doing aes-192 cbc for 3s on 8192 size blocks: 58635 aes-192 cbc's in 2.99s
+Doing aes-192 cbc for 3s on 16384 size blocks: 29324 aes-192 cbc's in 3.00s
+Doing aes-256 cbc for 3s on 16 size blocks: 22256914 aes-256 cbc's in 3.00s
+Doing aes-256 cbc for 3s on 64 size blocks: 6252874 aes-256 cbc's in 2.99s
+Doing aes-256 cbc for 3s on 256 size blocks: 1590317 aes-256 cbc's in 3.00s
+Doing aes-256 cbc for 3s on 1024 size blocks: 399708 aes-256 cbc's in 3.00s
+Doing aes-256 cbc for 3s on 8192 size blocks: 50151 aes-256 cbc's in 2.99s
+Doing aes-256 cbc for 3s on 16384 size blocks: 25069 aes-256 cbc's in 3.00s
+
+real	0m54.003s
+user	0m53.947s
+sys	0m0.000s

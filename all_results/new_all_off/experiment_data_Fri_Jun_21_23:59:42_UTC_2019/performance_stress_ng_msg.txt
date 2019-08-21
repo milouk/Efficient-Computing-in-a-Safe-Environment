@@ -1,0 +1,9 @@
+stress-ng: info:  [8005] dispatching hogs: 8 msg
+stress-ng: info:  [8005] successful run completed in 30.00s
+stress-ng: info:  [8005] stressor       bogo ops real time  usr time  sys time   bogo ops/s   bogo ops/s
+stress-ng: info:  [8005]                           (secs)    (secs)    (secs)   (real time) (usr+sys time)
+stress-ng: info:  [8005] msg            77720907     30.00      9.50    229.19   2590687.53    325614.42
+
+real	0m30.004s
+user	0m9.590s
+sys	3m49.260s

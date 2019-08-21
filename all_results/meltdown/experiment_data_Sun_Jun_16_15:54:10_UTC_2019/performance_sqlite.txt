@@ -1,0 +1,5 @@
+Error: table pts1 already exists
+
+real	9m29.431s
+user	0m0.815s
+sys	0m3.376s

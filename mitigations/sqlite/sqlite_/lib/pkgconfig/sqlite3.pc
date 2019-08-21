@@ -1,0 +1,13 @@
+# Package Information for pkg-config
+
+prefix=/home/sgeorgiou/GitHub/efficient_computering_in_safe_environments/mitigations/sqlite/sqlite_
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: SQLite
+Description: SQL database engine
+Version: 3.22.0
+Libs: -L${libdir} -lsqlite3
+Libs.private: -lz -ldl -lpthread 
+Cflags: -I${includedir}

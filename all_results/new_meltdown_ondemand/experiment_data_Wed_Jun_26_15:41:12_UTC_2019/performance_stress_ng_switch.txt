@@ -1,0 +1,9 @@
+stress-ng: info:  [3375] dispatching hogs: 8 switch
+stress-ng: info:  [3375] successful run completed in 30.00s
+stress-ng: info:  [3375] stressor       bogo ops real time  usr time  sys time   bogo ops/s   bogo ops/s
+stress-ng: info:  [3375]                           (secs)    (secs)    (secs)   (real time) (usr+sys time)
+stress-ng: info:  [3375] switch         51866845     30.00     30.33    209.08   1728895.44    216644.44
+
+real	0m30.010s
+user	0m30.416s
+sys	3m29.157s

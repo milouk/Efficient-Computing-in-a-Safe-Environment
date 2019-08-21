@@ -1,0 +1,9 @@
+stress-ng: info:  [7152] dispatching hogs: 8 msg
+stress-ng: info:  [7152] successful run completed in 30.00s
+stress-ng: info:  [7152] stressor       bogo ops real time  usr time  sys time   bogo ops/s   bogo ops/s
+stress-ng: info:  [7152]                           (secs)    (secs)    (secs)   (real time) (usr+sys time)
+stress-ng: info:  [7152] msg            50052831     30.00     18.32    221.05   1668421.23    209102.36
+
+real	0m30.004s
+user	0m18.391s
+sys	3m41.138s

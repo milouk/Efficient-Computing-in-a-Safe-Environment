@@ -1,0 +1,32 @@
+[
+  {
+    "directory": "/home/sgeorgiou/GitHub/efficient_computering_in_safe_environments/mitigations/osbench/osbench-master/out",
+    "command": "ccache cc -Icommon/common@@common@sta -Icommon -I../src/common -I. -I../src/ -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O3 -fPIC  -MD -MQ 'common/common@@common@sta/time.c.o' -MF 'common/common@@common@sta/time.c.o.d' -o 'common/common@@common@sta/time.c.o' -c ../src/common/time.c",
+    "file": "../src/common/time.c"
+  },
+  {
+    "directory": "/home/sgeorgiou/GitHub/efficient_computering_in_safe_environments/mitigations/osbench/osbench-master/out",
+    "command": "ccache cc -Icreate_threads@exe -I. -I../src -I../src/ -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O3 -pthread  -MD -MQ 'create_threads@exe/create_threads.c.o' -MF 'create_threads@exe/create_threads.c.o.d' -o 'create_threads@exe/create_threads.c.o' -c ../src/create_threads.c",
+    "file": "../src/create_threads.c"
+  },
+  {
+    "directory": "/home/sgeorgiou/GitHub/efficient_computering_in_safe_environments/mitigations/osbench/osbench-master/out",
+    "command": "ccache cc -Icreate_processes@exe -I. -I../src -I../src/ -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O3  -MD -MQ 'create_processes@exe/create_processes.c.o' -MF 'create_processes@exe/create_processes.c.o.d' -o 'create_processes@exe/create_processes.c.o' -c ../src/create_processes.c",
+    "file": "../src/create_processes.c"
+  },
+  {
+    "directory": "/home/sgeorgiou/GitHub/efficient_computering_in_safe_environments/mitigations/osbench/osbench-master/out",
+    "command": "ccache cc -Ilaunch_programs@exe -I. -I../src -I../src/ -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O3  -MD -MQ 'launch_programs@exe/launch_programs.c.o' -MF 'launch_programs@exe/launch_programs.c.o.d' -o 'launch_programs@exe/launch_programs.c.o' -c ../src/launch_programs.c",
+    "file": "../src/launch_programs.c"
+  },
+  {
+    "directory": "/home/sgeorgiou/GitHub/efficient_computering_in_safe_environments/mitigations/osbench/osbench-master/out",
+    "command": "ccache cc -Icreate_files@exe -I. -I../src -I../src/ -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O3  -MD -MQ 'create_files@exe/create_files.c.o' -MF 'create_files@exe/create_files.c.o.d' -o 'create_files@exe/create_files.c.o' -c ../src/create_files.c",
+    "file": "../src/create_files.c"
+  },
+  {
+    "directory": "/home/sgeorgiou/GitHub/efficient_computering_in_safe_environments/mitigations/osbench/osbench-master/out",
+    "command": "ccache cc -Imem_alloc@exe -I. -I../src -I../src/ -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O3  -MD -MQ 'mem_alloc@exe/mem_alloc.c.o' -MF 'mem_alloc@exe/mem_alloc.c.o.d' -o 'mem_alloc@exe/mem_alloc.c.o' -c ../src/mem_alloc.c",
+    "file": "../src/mem_alloc.c"
+  }
+]

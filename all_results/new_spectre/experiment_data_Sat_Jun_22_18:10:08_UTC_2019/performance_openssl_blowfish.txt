@@ -1,0 +1,10 @@
+Doing blowfish cbc for 3s on 16 size blocks: 30426473 blowfish cbc's in 3.00s
+Doing blowfish cbc for 3s on 64 size blocks: 8100497 blowfish cbc's in 2.99s
+Doing blowfish cbc for 3s on 256 size blocks: 2058273 blowfish cbc's in 3.00s
+Doing blowfish cbc for 3s on 1024 size blocks: 516708 blowfish cbc's in 3.00s
+Doing blowfish cbc for 3s on 8192 size blocks: 64659 blowfish cbc's in 3.00s
+Doing blowfish cbc for 3s on 16384 size blocks: 32318 blowfish cbc's in 2.99s
+
+real	0m18.003s
+user	0m17.990s
+sys	0m0.000s

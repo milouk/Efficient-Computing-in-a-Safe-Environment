@@ -1,0 +1,5 @@
+apr_socket_recv: Connection reset by peer (104)
+
+real	0m1.053s
+user	0m0.067s
+sys	0m0.612s

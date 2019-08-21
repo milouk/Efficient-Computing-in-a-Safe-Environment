@@ -1,0 +1,10 @@
+Doing rc4 for 3s on 16 size blocks: 149164882 rc4's in 2.99s
+Doing rc4 for 3s on 64 size blocks: 39251531 rc4's in 3.00s
+Doing rc4 for 3s on 256 size blocks: 8223199 rc4's in 3.00s
+Doing rc4 for 3s on 1024 size blocks: 1949698 rc4's in 3.00s
+Doing rc4 for 3s on 8192 size blocks: 236005 rc4's in 2.99s
+Doing rc4 for 3s on 16384 size blocks: 118767 rc4's in 3.00s
+
+real	0m18.003s
+user	0m17.987s
+sys	0m0.001s

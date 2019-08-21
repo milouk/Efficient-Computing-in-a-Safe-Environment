@@ -1,0 +1,10 @@
+Doing rc5-32/12 cbc for 3s on 16 size blocks: 61464649 rc5-32/12 cbc's in 2.99s
+Doing rc5-32/12 cbc for 3s on 64 size blocks: 16959789 rc5-32/12 cbc's in 3.00s
+Doing rc5-32/12 cbc for 3s on 256 size blocks: 4357378 rc5-32/12 cbc's in 3.00s
+Doing rc5-32/12 cbc for 3s on 1024 size blocks: 1097249 rc5-32/12 cbc's in 3.00s
+Doing rc5-32/12 cbc for 3s on 8192 size blocks: 137359 rc5-32/12 cbc's in 2.99s
+Doing rc5-32/12 cbc for 3s on 16384 size blocks: 68669 rc5-32/12 cbc's in 3.00s
+
+real	0m18.003s
+user	0m17.987s
+sys	0m0.001s

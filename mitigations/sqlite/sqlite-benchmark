@@ -1,0 +1,8 @@
+#!/bin/sh
+
+cat sqlite-2500-insertions.txt > sqlite-insertions.txt
+./sqlite_/bin/sqlite3 benchmark.db  "CREATE TABLE pts1 ('I' SMALLINT NOT NULL, 'DT' TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP, 'F1' VARCHAR(4) NOT NULL, 'F2' VARCHAR(16) NOT NULL);"
+
+cat sqlite-insertions.txt | ./sqlite_/bin/sqlite3 benchmark.db
+cat sqlite-insertions.txt | ./sqlite_/bin/sqlite3 benchmark.db
+cat sqlite-insertions.txt | ./sqlite_/bin/sqlite3 benchmark.db

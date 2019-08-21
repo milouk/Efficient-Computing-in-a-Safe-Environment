@@ -1,0 +1,9 @@
+stress-ng: info:  [835] dispatching hogs: 8 sem
+stress-ng: info:  [835] successful run completed in 30.00s
+stress-ng: info:  [835] stressor       bogo ops real time  usr time  sys time   bogo ops/s   bogo ops/s
+stress-ng: info:  [835]                           (secs)    (secs)    (secs)   (real time) (usr+sys time)
+stress-ng: info:  [835] sem           148540737     30.00     70.06    169.49   4951330.87    620082.39
+
+real	0m30.005s
+user	1m10.099s
+sys	2m49.528s

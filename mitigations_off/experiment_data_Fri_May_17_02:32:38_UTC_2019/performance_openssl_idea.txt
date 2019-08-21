@@ -1,0 +1,10 @@
+Doing idea cbc for 3s on 16 size blocks: 21972408 idea cbc's in 2.99s
+Doing idea cbc for 3s on 64 size blocks: 5690687 idea cbc's in 3.00s
+Doing idea cbc for 3s on 256 size blocks: 1436366 idea cbc's in 3.00s
+Doing idea cbc for 3s on 1024 size blocks: 359718 idea cbc's in 3.00s
+Doing idea cbc for 3s on 8192 size blocks: 45059 idea cbc's in 3.00s
+Doing idea cbc for 3s on 16384 size blocks: 22530 idea cbc's in 2.99s
+
+real	0m18.003s
+user	0m17.989s
+sys	0m0.001s

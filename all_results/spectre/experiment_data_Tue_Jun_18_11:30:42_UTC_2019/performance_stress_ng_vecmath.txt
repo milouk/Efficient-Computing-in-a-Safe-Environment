@@ -1,0 +1,9 @@
+stress-ng: info:  [20445] dispatching hogs: 8 vecmath
+stress-ng: info:  [20445] successful run completed in 30.00s
+stress-ng: info:  [20445] stressor       bogo ops real time  usr time  sys time   bogo ops/s   bogo ops/s
+stress-ng: info:  [20445]                           (secs)    (secs)    (secs)   (real time) (usr+sys time)
+stress-ng: info:  [20445] vecmath          320740     30.00    239.54      0.00     10691.19      1338.98
+
+real	0m30.014s
+user	3m59.599s
+sys	0m0.015s

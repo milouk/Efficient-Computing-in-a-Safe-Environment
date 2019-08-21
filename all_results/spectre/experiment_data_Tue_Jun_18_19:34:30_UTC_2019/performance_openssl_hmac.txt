@@ -1,0 +1,10 @@
+Doing hmac(md5) for 3s on 16 size blocks: 13062513 hmac(md5)'s in 3.00s
+Doing hmac(md5) for 3s on 64 size blocks: 9780669 hmac(md5)'s in 3.00s
+Doing hmac(md5) for 3s on 256 size blocks: 5591565 hmac(md5)'s in 2.99s
+Doing hmac(md5) for 3s on 1024 size blocks: 1998355 hmac(md5)'s in 3.00s
+Doing hmac(md5) for 3s on 8192 size blocks: 298057 hmac(md5)'s in 3.00s
+Doing hmac(md5) for 3s on 16384 size blocks: 151233 hmac(md5)'s in 3.00s
+
+real	0m18.008s
+user	0m17.992s
+sys	0m0.000s

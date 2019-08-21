@@ -1,0 +1,9 @@
+stress-ng: info:  [18269] dispatching hogs: 8 fork
+stress-ng: info:  [18269] successful run completed in 30.00s
+stress-ng: info:  [18269] stressor       bogo ops real time  usr time  sys time   bogo ops/s   bogo ops/s
+stress-ng: info:  [18269]                           (secs)    (secs)    (secs)   (real time) (usr+sys time)
+stress-ng: info:  [18269] fork            1163219     30.00    110.24     84.79     38773.90      5964.31
+
+real	0m30.005s
+user	1m50.318s
+sys	1m24.874s

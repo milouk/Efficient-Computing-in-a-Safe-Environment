@@ -1,0 +1,10 @@
+Doing seed cbc for 3s on 16 size blocks: 21654043 seed cbc's in 2.99s
+Doing seed cbc for 3s on 64 size blocks: 5616683 seed cbc's in 3.00s
+Doing seed cbc for 3s on 256 size blocks: 1415613 seed cbc's in 3.00s
+Doing seed cbc for 3s on 1024 size blocks: 355081 seed cbc's in 3.00s
+Doing seed cbc for 3s on 8192 size blocks: 44382 seed cbc's in 3.00s
+Doing seed cbc for 3s on 16384 size blocks: 22210 seed cbc's in 2.99s
+
+real	0m18.003s
+user	0m17.989s
+sys	0m0.000s

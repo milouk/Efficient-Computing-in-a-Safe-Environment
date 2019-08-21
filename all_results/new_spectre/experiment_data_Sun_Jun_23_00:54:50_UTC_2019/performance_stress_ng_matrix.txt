@@ -1,0 +1,9 @@
+stress-ng: info:  [18691] dispatching hogs: 8 matrix
+stress-ng: info:  [18691] successful run completed in 30.00s
+stress-ng: info:  [18691] stressor       bogo ops real time  usr time  sys time   bogo ops/s   bogo ops/s
+stress-ng: info:  [18691]                           (secs)    (secs)    (secs)   (real time) (usr+sys time)
+stress-ng: info:  [18691] matrix           946164     30.00    239.59      0.00     31538.84      3949.10
+
+real	0m30.005s
+user	3m59.634s
+sys	0m0.007s

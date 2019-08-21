@@ -1,0 +1,10 @@
+Doing 512 bit sign dsa's for 10s: 181762 512 bit DSA signs in 9.97s
+Doing 512 bit verify dsa's for 10s: 366577 512 bit DSA verify in 9.99s
+Doing 1024 bit sign dsa's for 10s: 111709 1024 bit DSA signs in 9.97s
+Doing 1024 bit verify dsa's for 10s: 172021 1024 bit DSA verify in 9.99s
+Doing 2048 bit sign dsa's for 10s: 46571 2048 bit DSA signs in 9.99s
+Doing 2048 bit verify dsa's for 10s: 56426 2048 bit DSA verify in 9.98s
+
+real	1m0.007s
+user	0m59.899s
+sys	0m0.033s

@@ -1,0 +1,10 @@
+Doing rmd160 for 3s on 16 size blocks: 10189209 rmd160's in 3.00s
+Doing rmd160 for 3s on 64 size blocks: 6064065 rmd160's in 2.99s
+Doing rmd160 for 3s on 256 size blocks: 2728974 rmd160's in 3.00s
+Doing rmd160 for 3s on 1024 size blocks: 846279 rmd160's in 3.00s
+Doing rmd160 for 3s on 8192 size blocks: 115517 rmd160's in 3.00s
+Doing rmd160 for 3s on 16384 size blocks: 58189 rmd160's in 2.99s
+
+real	0m18.005s
+user	0m17.988s
+sys	0m0.001s

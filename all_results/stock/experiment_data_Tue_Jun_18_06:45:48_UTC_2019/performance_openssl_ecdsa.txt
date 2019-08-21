@@ -1,0 +1,12 @@
+ECDSA failure.
+140020706723648:error:100AE081:elliptic curve routines:EC_GROUP_new_by_curve_name:unknown group:crypto/ec/ec_curve.c:416:
+ECDSA failure.
+140020706723648:error:100AE081:elliptic curve routines:EC_GROUP_new_by_curve_name:unknown group:crypto/ec/ec_curve.c:416:
+Doing 224 bit sign ecdsa's for 10s: 186852 224 bit ECDSA signs in 9.97s 
+Doing 224 bit verify ecdsa's for 10s: 89243 224 bit ECDSA verify in 9.99s
+Doing 256 bit sign ecdsa's for 10s: 337001 256 bit ECDSA signs in 9.94s 
+Doing 256 bit verify ecdsa's for 10s: 163115 256 bit ECDSA verify in 9.98s
+
+real	0m40.007s
+user	0m39.887s
+sys	0m0.079s
